@@ -22,12 +22,10 @@ Project description.
 2. Two
 3. Three
 
-## Inline code
+## Code
 
 Some inline `code`
 
-## Block code
-
 ```
-Block of code here
+Block of code
 ```
