@@ -3,6 +3,10 @@
 
 Project description.
 
+*Italicised text.*
+
+**Bold text.**
+
 ## Unordered lists
 
 * Item 1
