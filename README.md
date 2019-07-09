@@ -1,3 +1,5 @@
+<img src="images/screenshot.png" alt="" style="margin: 0 auto; max-width: 100%;" />
+
 # Project title
 ## Project subtitle
 
@@ -29,7 +31,3 @@ Some inline `code`
 ```
 Block of code here
 ```
-
-## Screenshot
-
-<img src="images/screenshot.jpg" alt="" style="margin: 0 auto; max-width: 100%;" />
